@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Rapport-SRB-HM/static/css/main.ea48ba82.css",
+    "main.js": "/Rapport-SRB-HM/static/js/main.340c51bf.js",
+    "static/js/498.8c7f5c60.chunk.js": "/Rapport-SRB-HM/static/js/498.8c7f5c60.chunk.js",
+    "static/js/703.dd222d96.chunk.js": "/Rapport-SRB-HM/static/js/703.dd222d96.chunk.js",
+    "static/js/513.180c1010.chunk.js": "/Rapport-SRB-HM/static/js/513.180c1010.chunk.js",
+    "static/js/787.cda612ba.chunk.js": "/Rapport-SRB-HM/static/js/787.cda612ba.chunk.js",
+    "static/media/home92.jpg": "/Rapport-SRB-HM/static/media/home92.73d01b9e12fe480ea799.jpg",
+    "static/media/showcase.jpg": "/Rapport-SRB-HM/static/media/showcase.730eec366d56657aadba.jpg",
+    "static/media/home16.jpg": "/Rapport-SRB-HM/static/media/home16.0645f3d90bf734949ac3.jpg",
+    "static/media/home4.jpg": "/Rapport-SRB-HM/static/media/home4.d6b13bf794f471212c6d.jpg",
+    "static/media/home6.jpg": "/Rapport-SRB-HM/static/media/home6.7f6fe2f248bfe92f3bd9.jpg",
+    "index.html": "/Rapport-SRB-HM/index.html",
+    "main.ea48ba82.css.map": "/Rapport-SRB-HM/static/css/main.ea48ba82.css.map",
+    "main.340c51bf.js.map": "/Rapport-SRB-HM/static/js/main.340c51bf.js.map",
+    "498.8c7f5c60.chunk.js.map": "/Rapport-SRB-HM/static/js/498.8c7f5c60.chunk.js.map",
+    "703.dd222d96.chunk.js.map": "/Rapport-SRB-HM/static/js/703.dd222d96.chunk.js.map",
+    "513.180c1010.chunk.js.map": "/Rapport-SRB-HM/static/js/513.180c1010.chunk.js.map",
+    "787.cda612ba.chunk.js.map": "/Rapport-SRB-HM/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea48ba82.css",
+    "static/js/main.340c51bf.js"
+  ]
+}
